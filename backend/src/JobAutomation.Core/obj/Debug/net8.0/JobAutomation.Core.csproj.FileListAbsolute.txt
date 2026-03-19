@@ -1,0 +1,11 @@
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\bin\Debug\net8.0\JobAutomation.Core.deps.json
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\bin\Debug\net8.0\JobAutomation.Core.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\bin\Debug\net8.0\JobAutomation.Core.pdb
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.AssemblyInfoInputs.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.AssemblyInfo.cs
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\refint\JobAutomation.Core.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\JobAutomation.Core.pdb
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Core\obj\Debug\net8.0\ref\JobAutomation.Core.dll

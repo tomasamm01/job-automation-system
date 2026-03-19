@@ -1,0 +1,17 @@
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Infrastructure.deps.json
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Infrastructure.runtimeconfig.json
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Infrastructure.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Infrastructure.pdb
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Core.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\bin\Debug\net8.0\JobAutomation.Core.pdb
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.AssemblyInfo.cs
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutom.F4B59D22.Up2Date
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\refint\JobAutomation.Infrastructure.dll
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.pdb
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\JobAutomation.Infrastructure.genruntimeconfig.cache
+C:\Users\Tomas\Documents\GitHub\job-automation-system\backend\src\JobAutomation.Infrastructure\obj\Debug\net8.0\ref\JobAutomation.Infrastructure.dll
