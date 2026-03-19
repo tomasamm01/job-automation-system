@@ -1,0 +1,28 @@
+---
+name: Feature Request
+about: Suggest an idea for this project
+title: '[FEATURE] '
+labels: enhancement
+assignees: ''
+---
+
+## Problem Statement
+
+A clear description of the problem this feature would solve.
+
+Example: "I'm always frustrated when [...]"
+
+## Proposed Solution
+
+A clear description of what you want to happen.
+
+## Alternatives Considered
+
+Any alternative solutions or features you've considered.
+
+## Additional Context
+
+- **Component affected**: [e.g., Backend, Frontend, Scraper, Docs]
+- **Priority**: [Low / Medium / High]
+
+Add any other context, mockups, or screenshots about the feature request.

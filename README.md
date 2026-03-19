@@ -1,5 +1,10 @@
 # Job Automation System
 
+[![Backend CI](https://github.com/YOUR_USERNAME/job-automation-system/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/job-automation-system/actions/workflows/backend-ci.yml)
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A job ingestion and tracking pipeline designed to automate the collection, deduplication, scoring, and management of job postings from multiple sources.
 
 ## Why This Project Matters
@@ -243,8 +248,23 @@ In production, scrapers send imperfect data. One malformed record shouldn't fail
 
 Detailed technical documentation is available in `/docs`:
 
-- **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** - System design, database schema, scoring rules, processing decisions
-- **[INGEST_OPTIMIZATION.md](docs/INGEST_OPTIMIZATION.md)** - Scaling strategies, performance benchmarks, future optimizations
+| Document | Description |
+|----------|-------------|
+| [ARCHITECTURE.md](docs/ARCHITECTURE.md) | System design, database schema, scoring rules |
+| [INGEST_OPTIMIZATION.md](docs/INGEST_OPTIMIZATION.md) | Scaling strategies, performance benchmarks |
+| [guides/DEVELOPMENT.md](docs/guides/DEVELOPMENT.md) | Local development setup and workflows |
+| [decisions/](docs/decisions/) | Architecture Decision Records (ADRs) |
+
+---
+
+## Contributing
+
+We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details on:
+
+- Development workflow
+- Commit conventions (Conventional Commits)
+- Branch naming
+- Pull request process
 
 ---
 
