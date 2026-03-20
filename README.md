@@ -1,6 +1,6 @@
 # Job Automation System
 
-[![Backend CI](https://github.com/YOUR_USERNAME/job-automation-system/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/job-automation-system/actions/workflows/backend-ci.yml)
+[![Backend CI](https://github.com/tomasamm01/job-automation-system/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/tomasamm01/job-automation-system/actions/workflows/backend-ci.yml)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
